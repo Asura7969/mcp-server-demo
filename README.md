@@ -1,0 +1,1 @@
+https://github.com/modelcontextprotocol/python-sdk/blob/main/examples/servers/simple-resource/README.md
